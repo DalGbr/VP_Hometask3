@@ -1,0 +1,16 @@
+C:\Visual Programming\VisualProgramming_EX3\VisualProgramming_EX3\bin\Debug\net6.0-windows\VisualProgramming_EX3.exe
+C:\Visual Programming\VisualProgramming_EX3\VisualProgramming_EX3\bin\Debug\net6.0-windows\VisualProgramming_EX3.deps.json
+C:\Visual Programming\VisualProgramming_EX3\VisualProgramming_EX3\bin\Debug\net6.0-windows\VisualProgramming_EX3.runtimeconfig.json
+C:\Visual Programming\VisualProgramming_EX3\VisualProgramming_EX3\bin\Debug\net6.0-windows\VisualProgramming_EX3.dll
+C:\Visual Programming\VisualProgramming_EX3\VisualProgramming_EX3\bin\Debug\net6.0-windows\VisualProgramming_EX3.pdb
+C:\Visual Programming\VisualProgramming_EX3\VisualProgramming_EX3\obj\Debug\net6.0-windows\VisualProgramming_EX3.Form1.resources
+C:\Visual Programming\VisualProgramming_EX3\VisualProgramming_EX3\obj\Debug\net6.0-windows\VisualProgramming_EX3.csproj.GenerateResource.cache
+C:\Visual Programming\VisualProgramming_EX3\VisualProgramming_EX3\obj\Debug\net6.0-windows\VisualProgramming_EX3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Programming\VisualProgramming_EX3\VisualProgramming_EX3\obj\Debug\net6.0-windows\VisualProgramming_EX3.AssemblyInfoInputs.cache
+C:\Visual Programming\VisualProgramming_EX3\VisualProgramming_EX3\obj\Debug\net6.0-windows\VisualProgramming_EX3.AssemblyInfo.cs
+C:\Visual Programming\VisualProgramming_EX3\VisualProgramming_EX3\obj\Debug\net6.0-windows\VisualProgramming_EX3.csproj.CoreCompileInputs.cache
+C:\Visual Programming\VisualProgramming_EX3\VisualProgramming_EX3\obj\Debug\net6.0-windows\VisualProgramming_EX3.dll
+C:\Visual Programming\VisualProgramming_EX3\VisualProgramming_EX3\obj\Debug\net6.0-windows\refint\VisualProgramming_EX3.dll
+C:\Visual Programming\VisualProgramming_EX3\VisualProgramming_EX3\obj\Debug\net6.0-windows\VisualProgramming_EX3.pdb
+C:\Visual Programming\VisualProgramming_EX3\VisualProgramming_EX3\obj\Debug\net6.0-windows\VisualProgramming_EX3.genruntimeconfig.cache
+C:\Visual Programming\VisualProgramming_EX3\VisualProgramming_EX3\obj\Debug\net6.0-windows\ref\VisualProgramming_EX3.dll
